@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Mercado\Mercado\bin\Debug\net10.0\Mercado.exe
+C:\Users\gabri\source\repos\Mercado\Mercado\bin\Debug\net10.0\Mercado.deps.json
+C:\Users\gabri\source\repos\Mercado\Mercado\bin\Debug\net10.0\Mercado.runtimeconfig.json
+C:\Users\gabri\source\repos\Mercado\Mercado\bin\Debug\net10.0\Mercado.dll
+C:\Users\gabri\source\repos\Mercado\Mercado\bin\Debug\net10.0\Mercado.pdb
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.dll
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\refint\Mercado.dll
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.pdb
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\Mercado.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Mercado\Mercado\obj\Debug\net10.0\ref\Mercado.dll

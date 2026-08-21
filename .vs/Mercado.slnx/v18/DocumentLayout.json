@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Mercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|c:\\users\\gabri\\source\\repos\\mercado\\mercado\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|solutionrelative:mercado\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|c:\\users\\gabri\\source\\repos\\mercado\\mercado\\common\\exceptions\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|solutionrelative:mercado\\common\\exceptions\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|c:\\users\\gabri\\source\\repos\\mercado\\mercado\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|solutionrelative:mercado\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|c:\\users\\gabri\\source\\repos\\mercado\\mercado\\common\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDB9C07-0CBC-F866-5945-5FB624434813}|Mercado\\Mercado.csproj|solutionrelative:mercado\\common\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Mercado\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Mercado\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T00:41:28.528Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Common\\Exceptions\\Guard.cs",
+              "RelativeDocumentMoniker": "Mercado\\Common\\Exceptions\\Guard.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Common\\Exceptions\\Guard.cs",
+              "RelativeToolTip": "Mercado\\Common\\Exceptions\\Guard.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:09:17.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Common\\Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Mercado\\Common\\Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Common\\Base\\Entity.cs",
+              "RelativeToolTip": "Mercado\\Common\\Base\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T00:45:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Mercado\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Mercado\\Mercado\\Entities\\Produto.cs",
+              "RelativeToolTip": "Mercado\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:15:32.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
